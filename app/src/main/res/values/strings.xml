@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calc1</string>
+    <string name="soma">+</string>
+    <string name="sub">-</string>
+    <string name="mult">*</string>
+    <string name="div">/</string>
+    <string name="placeholder">                     </string>
+    <string name="val_1">Valor 1</string>
+    <string name="val_2">Valor 2</string>
+    <string name="val_3">Valor final:</string>
+</resources>
